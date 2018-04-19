@@ -75,7 +75,7 @@ void printVector(vector <int> & pq )
 {
   for(int r = 0; r < pq.size(); r++)
   {
-    cout<<pq[r]<<endl;
+    cout<<pq[r]<<" ";
 
   }
 
